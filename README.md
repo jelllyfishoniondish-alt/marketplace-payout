@@ -1,5 +1,7 @@
 # marketplace-payout
 
+![CI](https://github.com/jelllyfishoniondish-alt/marketplace-payout/actions/workflows/ci.yml/badge.svg)
+
 Event-driven backend for a marketplace: buyers place orders, and each seller's payout is computed
 asynchronously from the order events, without paying the same order twice.
 
